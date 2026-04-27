@@ -13,10 +13,10 @@
 
 <!-- ══════ SOCIAL BADGES ══════ -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/huzemasaif/">
+  <a href="www.linkedin.com/in/huzemasaif">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="mailto:huzemasaif20@gmail.com">
+  <a href="mailto:huzemasaif.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=huzemasaif&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
