@@ -36,9 +36,9 @@ I specialize in **Computer Vision**, **Deep Learning**, and **Generative AI** �
 
 - 🎓 &nbsp; BS Computer Science — FAST NUCES, Islamabad &nbsp; `2021 – 2025`
 - 💼 &nbsp; Former AI/ML Intern @ **Shaoor** · Sign language translation app
-- 🌍 &nbsp; Based in Peshawar, Pakistan 🇵🇰
+- 🌍 &nbsp; Based in Islambad, Pakistan 🇵🇰
 - 🔭 &nbsp; Currently exploring **LLM fine-tuning** & **multimodal AI**
-- 📫 &nbsp; `huzemasaif20@gmail.com`
+- 📫 &nbsp; `huzemasaif.dev@gmail.com`
 
 <br clear="right"/>
 
